@@ -1,2 +1,2 @@
-# EasyAF-docs
-Documentation for EasyAF
+# SiteFiles-docs
+Documentation for SiteFiles
